@@ -1,0 +1,11 @@
+#presentation-title{
+	margin-top: -450px;
+}
+#presentation-subtitle{
+	margin-top: 30px;
+}
+.visible {
+  visibility: visible;
+  opacity: 1;
+  transition: opacity 2s linear;
+}
